@@ -1,0 +1,24 @@
+{
+  "id": "4bfdf158-b777-40b2-a689-155367850ac1",
+  "name": "TestProject",
+  "publisher": "kfuglsang",
+  "brief": "",
+  "description": "Test project",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 50000,
+    "to": 99999
+  },
+  "runtime": "3.0",
+  "target": "Internal",
+  "showMyCode": true
+}

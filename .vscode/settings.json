@@ -1,0 +1,7 @@
+{
+    "al.enableCodeAnalysis": false,
+    "al.assemblyProbingPaths": [
+        "./.netpackages",
+        "C:/Windows/Assembly"
+    ]
+}
